@@ -6,3 +6,4 @@ Todo List
 # Fobnacci Series
 # CountDuplicate
 # Reverse Algorithm
+# Calculator created
