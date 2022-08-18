@@ -10,5 +10,11 @@ public class Typecasting {
         int num1 = (int)(123.35f);
         System.out.println(num1);
 
+        int a = 257;
+        byte b = (byte)(a); // 257 % 256 = 1
+
+        System.out.println(b);
+
+
     }
 }
