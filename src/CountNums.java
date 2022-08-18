@@ -24,6 +24,7 @@ public class CountNums {
 
             n = n/10;
         }
+
         System.out.println(count);
 
     }
